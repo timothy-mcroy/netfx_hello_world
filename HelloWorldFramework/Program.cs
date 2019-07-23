@@ -10,6 +10,7 @@ namespace HelloWorldFramework
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello WOrld!");
         }
     }
 }
